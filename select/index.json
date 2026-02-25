@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウェイティング・フォー・ラヴ",
+  "base_artist": "アヴィーチー",
+  "createdAt": "2026-02-25T04:23:15.745428Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waiting For Love",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Waiting_For_Love_Avicii.txt"
+    }
+  ]
+}
